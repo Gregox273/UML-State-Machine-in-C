@@ -3,5 +3,6 @@ project("demo")
 
 add_subdirectory(simple_state_machine)
 add_subdirectory(simple_state_machine_enhanced)
+add_subdirectory(t_junction_traffic_lights)
 add_subdirectory(toaster_oven)
 add_subdirectory(hierarchical_state_machine)

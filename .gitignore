@@ -56,3 +56,5 @@ Debug
 Release
 MinGW
 vs2019
+
+build/
